@@ -27,7 +27,7 @@ Una vez tengas Node.js instalado, sigue estos pasos para instalar el proyecto:
 
 1. **Clona o descarga el repositorio**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/jmanuel0708/EBAC-Practica-Modulo-26
    cd Proyecto
    ```
 
@@ -60,20 +60,6 @@ El usuario con fecha de nacimiento el 03 de Diciembre del 2007 tiene 18 años
 El usuario con fecha de nacimiento el 30 de Marzo del 2000 tiene 26 años
 ```
 
-## Modificar el Código
-
-Si deseas cambiar las fechas de nacimiento o agregar más usuarios, edita el archivo `js/app.ts`:
-
-```typescript
-console.log(`El usuario con fecha de nacimiento el 08 de Julio del 2002 tiene ${getAge("2002-07-08")} años`)
-```
-
-Luego compila TypeScript a JavaScript ejecutando:
-
-```bash
-npx tsc
-```
-
 ## Tecnologías Utilizadas
 
 - **TypeScript** - Lenguaje de programación tipado basado en JavaScript
@@ -88,7 +74,3 @@ npx tsc
 ## Licencia
 
 Este proyecto está bajo la licencia **ISC**.
-
----
-
-¿Necesitas ayuda con algo más del proyecto?
