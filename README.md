@@ -28,7 +28,7 @@ Una vez tengas Node.js instalado, sigue estos pasos para instalar el proyecto:
 1. **Clona o descarga el repositorio**
    ```bash
    git clone https://github.com/jmanuel0708/EBAC-Practica-Modulo-26
-   cd Proyecto
+   cd EBAC-Practica-Modulo-26
    ```
 
 2. **Instala las dependencias**
@@ -55,7 +55,7 @@ Este comando ejecutará el programa que calcula la edad para las fechas de nacim
 Cuando ejecutes el programa, verás algo como:
 
 ```
-El usuario con fecha de nacimiento el 08 de Julio del 2002 tiene 21 años
+El usuario con fecha de nacimiento el 08 de Julio del 2002 tiene 23 años
 El usuario con fecha de nacimiento el 03 de Diciembre del 2007 tiene 18 años
 El usuario con fecha de nacimiento el 30 de Marzo del 2000 tiene 26 años
 ```
