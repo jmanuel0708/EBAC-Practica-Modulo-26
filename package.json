@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-modulo-26-ebac",
+  "version": "1.0.0",
+  "description": "Proyecto de práctica del Modulo 26 sobre Typescript del alumno Jose Manuel Juarez Arraco",
+  "main": "index.js",
+  "scripts": {
+    "start": "node js/app.js"
+  },
+  "keywords": [],
+  "author": "Josefo Arraco, josefo.juarez@gmail.com, https://github.com/jmanuel0708",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
